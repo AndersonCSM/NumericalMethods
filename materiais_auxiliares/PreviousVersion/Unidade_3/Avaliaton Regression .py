@@ -41,7 +41,7 @@ def plot_grafico(x, y, fun):
     plt.title('Co2 x year in Brazil')
     plt.show()
     
-import Mínimos_quadrados as mq
+import minimos_quadrados as mq
 
 x_new = x/max(x)
 y_new = y/max(y)

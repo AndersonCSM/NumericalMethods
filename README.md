@@ -14,10 +14,6 @@ The repository features different numerical methods such as:
 ## Technologies
 - Python3 and its libraries.
 
-## Contact
-- Social networks: https://github.com/AndersonCSM
-- Contact email: andersoncarlos799@gmail.com
-
 ---
 ## Sobre
 Repositório focado em implementações de algoritmos estudados na disciplina de Cálculo Numérico.
@@ -34,9 +30,3 @@ O repositório apresenta diferentes métodos numéricos, como:
 
 ## Tecnologias
 - Python3 e suas bibliotecas.
-
-## Contato
-- Redes sociais: https://github.com/AndersonCSM
-- email de contato: andersoncarlos799@gmail.com
-
----
